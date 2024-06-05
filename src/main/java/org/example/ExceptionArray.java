@@ -5,3 +5,4 @@ public class ExceptionArray extends RuntimeException{
         super(s);
     }
 }
+//\ No newline at end of file
